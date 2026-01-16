@@ -1,0 +1,12 @@
+streamlit
+mcp
+langchain
+langchain-community
+langchain-groq
+langchain-tavily
+python-dotenv
+arxiv
+wikipedia
+ipykernel
+langchain_tavily
+nest-asyncio
