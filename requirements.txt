@@ -10,3 +10,5 @@ wikipedia
 ipykernel
 langchain_tavily
 nest-asyncio
+fastmcp 
+uvicorn
